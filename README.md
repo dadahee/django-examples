@@ -1,1 +1,1 @@
-# django-exmples
+# django-examples
